@@ -31,3 +31,12 @@
 ### Reason for Closing: Short DTE = 14, Gamma > -2
 ### Result: WIN +$2,309.26
 ### Video: https://www.facebook.com/reel/880625461521377
+
+# TRADE #3: 
+### Entry Date: April 15, 2026
+### Short May 29, 660P; Short May 29, 730C; Long June 18, 660P; Long June 18, 730C
+### Date Closed: Still Open
+### Reason for Closing: Still Open
+### Result: Pending
+### Video: 
+
