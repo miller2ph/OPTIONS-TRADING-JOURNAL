@@ -11,7 +11,6 @@
 #
 
 ## EXIT PARAMETERS (whichever comes first):
-### DELTA: > +90 or < -90
 ### THETA < VEGA * 0.015
 ### GAMMA > -2
 ### SHORT DTE </= 14 DAYS
